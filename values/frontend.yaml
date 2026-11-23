@@ -3,7 +3,7 @@
 # (No blank lines: yq rewrites the file on each bump and would remove them.)
 image:
   repository: ghcr.io/m7011e-cs2/frontend
-  tag: "eeb7b5f0867f5e08feb21687d67e57805f3dab5f"
+  tag: "79bc94b9021b4e763e60747210a60a8528abaa52"
 containerPort: 8080
 probes:
   path: /
