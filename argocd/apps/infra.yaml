@@ -12,9 +12,9 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/M7011E-CS2/M7011E-MapPicker.git
+    repoURL: https://github.com/M7011E-CS2/M7011E-GitOps.git
     targetRevision: main
-    path: deploy/infra
+    path: infra
   destination:
     server: https://kubernetes.default.svc
     namespace: mappick
